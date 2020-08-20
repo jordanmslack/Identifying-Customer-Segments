@@ -1,2 +1,3 @@
 # Identifying Customer Segments
-PCA and KMeans Clustering with Sklearn to identify optimal customers from general populations
+
+This project required extensive data preparation and analsysis prior to implementation. The segmentation was completed using Sklearn, and the models were developed to identify optimal customers from general populations.
